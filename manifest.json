@@ -1,0 +1,9 @@
+{
+  "background_color": "#ffffff",
+  "display": "standalone",
+  "lang": "en",
+  "name": "OdiseiMidiTest",
+  "short_name": "OdiseiMidiTest",
+  "start_url": "/?utm_source=web_app_manifest",
+  "orientation": "portrait"
+}
